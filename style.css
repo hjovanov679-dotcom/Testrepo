@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 20px;
 }
-content {
+.content {
     display: flex;
     align-items: center;
     gap: 64px;
