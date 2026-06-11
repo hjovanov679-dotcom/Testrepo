@@ -9,6 +9,7 @@ body {
     align-items: center;
     gap: 64px;
     padding: 80px 64px;
+    width: 50%;
 }
 h1 {
     font-size: 100px;
@@ -41,9 +42,6 @@ h3 {
     width: 50%;
     height: 420px;
     object-fit: cover;
-}
-.content {
-    width: 50%;
 }
 
 .dropdown {
